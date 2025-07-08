@@ -12,7 +12,6 @@ body {
     max-width: 1200px;
     margin: 0 auto;
     padding: 20px;
-    background-color: #FF1493;
 }
 
 .button {
@@ -263,7 +262,7 @@ body {
 
 /* Footer */
 .site-footer {
-    background-color: ##C71585;
+    background-color: #C71585;
     color: #fff;
     text-align: center;
     padding: 20px 0;
